@@ -1,6 +1,0 @@
-Hi everyone,
-This is my first git bash practical practice and working with youtube. 
-
-This is my first git bash practical practice hands-on-labs
-I want some Idea how to showcase this hands-on-lab on LinkedIn.
-
